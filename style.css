@@ -46,3 +46,14 @@ img{
   background-color: white;
   border-radius: 15px;
 }
+
+  
+  .pol{
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color: white;
+    background-color: black;
+  }
+  
+  
